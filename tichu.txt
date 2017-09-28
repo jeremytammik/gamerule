@@ -1,0 +1,26 @@
+kombinationen:
+  einzel
+  paar
+  tripel
+  full house
+  strasse 5 karten oder mehr
+
+bombe:
+  4 gleiche
+  royal flush, einfarbige strasse
+
+hoch:
+  drache: hoechste einzelkarte, verschenkt seinen stich
+  phoenix: joker oder 0.5 punkte hoeher als drunterliegende einzelkarte
+ 
+tief:
+  eins: beginnt, kann in strasse eingeordnet werden
+  hund: kann nur beim rauskommen gespielt werden, dann kommt der partner dran
+  
+punkte:
+  5 = 5
+  10 und koenig = 10
+  drache = +25
+  phoenix = -25
+  insgesamt 4 * 5 + 4 * 10 + 4 * Koenig + 25 - 25 = 100
+

@@ -1,0 +1,15 @@
+Raj bidding game for 2-5 players
+
+Players are given an equal deck of cards from one to fifteen.
+Each turn, a prize tile is randomly selected from a pool.
+The prize tile either has positive or negative points, -5 to +10.
+Each player is attempting to gather the most positive points from these prizes.
+Players secretly select one of their remaining fifteen cards, and reveal them simultaneously.
+The highest card gets the prize (if positive), or the lowest card get the prize (if negative).
+However, if two people play the highest (or lowest) card, they cancel each other out and the prize goes to the next in line.
+If all players cancel out, the prize remains on the table, the next prize is added, and the next bidding cards are drawn and shown.
+
+http://boardgamegeek.com/boardgame/175/raj
+
+2013-06-08 played with kevin vandecar and his family crystal, zachary and erin
+2013-12-30 played in wildhaus with christopher (3 points), silea (26), dan (94), moni (19) and jeremy (26). dan loved it.
