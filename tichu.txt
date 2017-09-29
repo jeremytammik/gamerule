@@ -1,9 +1,12 @@
+tichu
+
 kombinationen:
   einzel
   paar
   tripel
   full house
   strasse 5 karten oder mehr
+  2 oder mehr aufeinanderfolgende paare
 
 bombe:
   4 gleiche
