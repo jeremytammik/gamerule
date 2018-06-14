@@ -1,0 +1,46 @@
+https://de.wikipedia.org/wiki/Zank-Patience
+
+Zank-Patience
+
+Die Zank-Patience oder Die Zänkische ist ein Patience-Kartenspiel für zwei Personen, das mit zwei Paketen französischer Karten zu 52 Blatt gespielt wird.
+
+Weitere Namen für dieses Spiel sind Streit-Patience, Schikanös-Patience, Schikanöschen, Russische Bank – in Großbritannien und den USA wird überwiegend die Bezeichnung Russian Bank verwendet – oder französisch Crapette.
+
+Ein Abkömmling der Zank-Patience für zwei oder mehr Personen ist Spite and Malice, das unter dem Namen SKIP-BO in einer kommerziellen Version von Mattel verbreitet ist.
+
+1	Die Regeln
+2	Weitere Regeln
+2.1	Rot-Schwarz-Folgen
+2.2	Vorratspäckchen
+2.3	Stopp!
+
+1. Die Regeln
+
+Die im Folgenden wiedergegebene Regel stammt aus Illustrirtes Buch der Patiencen. Erstes Bändchen, J. U. Kern's Verlag, Breslau 1884/1885.
+
+Jeder der beiden einander gegenübersitzenden Spieler nimmt ein Spiel Whistkarten, das ist ein Paket französischer Karten zu 52 Blatt, mischt es und lässt vom Gegner abheben. Wer am höchsten abgehoben hat macht den Anfang. Er legt die ersten dreizehn Karten in einem offenen Ersatzpäckchen (Schikanös-Päckchen) seitwärts auf den Tisch und die folgenden vier Karten in einer Reihe neben- oder untereinander offen vor sich. Im Bild ist das die rechte Spalte, analog dazu wird genau dasselbe auf der linken Seite aufgebaut. Der zweite Spieler legt seine Karten in gleicher Weise. Zwischen den beiden Reihen muss Platz für die acht Asse bleiben (im Bild die mittleren zwei Spalten):
+
+Die Asse werden beim Fortgang des Spieles, sobald sie erscheinen, auf die für sie bestimmten Plätze gelegt und bilden die Grundkarten für Familien von aufsteigendem Wert, die mit den Königen schließen, also ♥ A – ♥ 2 – ♥ 3 – ... – ♥ J – ♥ Q – ♥ K.
+
+Der erste Spieler zieht sodann die übrigen Karten seines Spieles eine nach der anderen ab, indem er bemüht ist, jedes Blatt entweder den auf den Assen in aufsteigender Folge zu bildenden Familien anzufügen, oder sie in gleicher Farbe und absteigender Folge auf die Vorratspäckchen unterzubringen, welche auf den je vier Karten zu beiden Seiten der Assreihe gebildet werden (Rot-Schwarz-Folgen).
+
+Die erste Karte, die der erste Spieler nicht in dieser Weise unterbringen kann, legt er als Anfang zu seinem Stoß (Ablegestoß) vor sich hin.
+
+Es folgt der zweite Spieler, welcher ebenso verfährt, dabei noch das Recht hat, Karten, die weder auf die Assreihe noch auf die acht Vorratspäckchen passen, auf das Ersatzpäckchen oder den angefangenen Stoß des Gegners zu legen, sobald sie in der Farbe passen. Gleichgültig ob in auf- oder absteigender Folge. Dasselbe Recht hat beim Fortgange des Spiels der erste Spieler. Dieser Vorteil muss genau beachtet werden, um den Karten-Vorrat des Gegners zu vermehren, den eigenen aber zu verringern. es gewinnt derjenige, welcher zuerst mit seinen Karten am Ende ist.
+
+Die acht Vorratspäckchen können auf die Assreihe übertragen werden, sobald sie sich an diese anschließen, und ihre Stelle wird dann durch die oberste Karte aus dem Stoße des gerade an der Reihe befindlichen Spielers ausgefüllt. Es ist im Allgemeinen ratsam, die passenden Karten des Ersatzpäckchens immer zuerst zu verwenden – sei es auf die Assreihe, sei es auf die acht Vorratspäckchen. Jeder Stoß wird bei dieser Patience so oft aufgenommen wie erforderlich. Jedoch muss ein Spieler den seinigen immer so lange liegen lassen, bis der Gegner keine passende Karte zum Auslegen mehr hat. Erst wenn er an die Reihe kommt, darf er seinen Stoß wieder aufnehmen und von neuem als Block (Talon) abziehen.
+
+2. Weitere Regeln
+
+2.1. Rot-Schwarz-Folgen
+
+Die Regel, dass die Karten auf den Vorratspäckchen in gleicher Farbe gelegt werden müssen, ist von späteren Autoren zumeist dahingehend geändert worden, dass anstelle von reinen Farb-Folgen (nach älterer Sprechweise: Stämme oder Hierarchien), Rot-Schwarz-Folgen (nach älterer Sprechweise: Wechselsippen) gebildet werden müssen. Also auf ♠ Q könnte man entweder ♥ J oder ♦ J legen.
+
+2.2. Vorratspäckchen
+
+Eine ebenfalls weit verbreitete Variation betrifft die Vorratspäckchen. Häufig wird so gespielt, dass ein Spieler, sobald er erstmals am Zuge ist, anstelle einer Reihe von vier offenen Karten zuerst ein oder zwei Reihen von vier verdeckten Karten und dann auf jede verdeckte Karte eine offene Karte legt.
+
+2.3. Stopp!
+
+Meist gilt die Regel, dass der Aufbau der Familien auf den Assen Vorrang vor jedem möglichen anderen Spielzug genießt. Versäumt es ein Spieler, eine Karte, die in die Mitte auf eine Assreihe gelegt werden könnte, dorthin zu legen, oder versäumt er, eine für den Aufbau verwendbare Karte frei zu legen, so kann der Gegner „Stopp!“ rufen. Der an der Reihe befindliche Spieler muss seinen Zug sofort beenden, und sein Gegner ist am Zuge.
+
