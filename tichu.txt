@@ -27,3 +27,14 @@ punkte:
   phoenix = -25
   insgesamt 4 * 5 + 4 * 10 + 4 * Koenig + 25 - 25 = 100
 
+https://www.boardgamegeek.com/boardgame/215/tichu
+
+Description	
+
+Tichu took much of its rules and mechanics from Zheng Fen. It is a partnership climbing card game, and the object of play is to rid yourself of your hand, preferably while scoring points in the process.
+
+The deck is a standard 52-card pack with four special cards added: dog, phoenix, dragon and Mah Jong (1). When it's your turn, you may either beat the current top card combination — single card, pair of cards, sequence of pairs, full house, etc. — or pass. If play passes all the way back to the player who laid the top cards, he wins the trick, clears the cards, and can lead the next one. The card led determines the only combination of cards that can be played on that trick, so if a single card is led, then only single cards are played; if a straight of seven cards is led, then only straights of seven cards can be played, etc.
+
+The last player out in a round gives all the cards he won to the player who exited first, and the last player's unplayed cards are handed to the opposite team. Fives, tens and Kings are worth 5, 10 and 10 points, with each hand worth one hundred points without bonuses — but the bonuses are what drive the game. At the start of a round, each player can call "Tichu" prior to her playing any card. This indicates that she thinks that she can empty her hand first this round; if she does so, her team scores 100 points, and if not, it loses 100 points. Cards are dealt at the start of a round in a group of eight and a group of six; a player can call "Grand Tichu" after looking at only her first eight cards for a ±200 point bonus. If both players on a team exit a round prior to either player on the opposite team, then no points are scored for cards and the winning team earns 200 points (with Tichu/Grand Tichu bonuses and penalties being applied as normal).
+
+The first team to 1,000 points wins.
