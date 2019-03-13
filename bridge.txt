@@ -1,0 +1,14 @@
+one bridge bidding communication system according to patricia:
+
+bidding x means y
+
+1c --> 1d = 4+h
+   --> 1h = 4+s
+   --> 1s = 8-9 pts
+   --> 1NT = 10-12 pts
+1h or 1s --> 2c = 10-12 pts
+   2c --> 2h or s = ... and a fit
+
+this is just the rudimentary basis for a bidding system that she likes.
+
+look it up, there are many systems, find one that fits.
