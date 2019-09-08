@@ -12,3 +12,17 @@ bidding x means y
 this is just the rudimentary basis for a bidding system that she likes.
 
 look it up, there are many systems, find one that fits.
+
+2019-09-08 marcus taught me the basics in nerja, and says:
+
+there's a great online club where you can play bridge to your hearts content:
+
+https://www.bridgebase.com/
+
+They have a Bridge Master teaching tutorial, which is fantastic! You wouldn't believe how it's possible, or the calculations involved, to make certain contracts with perfect play.
+
+The robots and the bidding are supposed to follow a system called:
+
+https://en.wikipedia.org/wiki/2/1_game_forcing
+
+Be warned, you get all kinds of bidding from human players and the robots (IMHO) lose the plot occasionally with their bidding/and or play!
