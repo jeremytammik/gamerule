@@ -1,4 +1,4 @@
-/j/doc/db/gamerule/tmb/2017/done.txt
+/Users/jta/j/doc/db/gamerule/tmb/tmb_done.txt
 
 2017-21
 2017-23
@@ -33,10 +33,6 @@
 2017-04-05
 2017-06
 
-/j/doc/db/gamerule/tmb/2018/done.txt
-
-TMB done 2018
-
 2018-01-02
 2018-04
 2018-06
@@ -61,10 +57,6 @@ TMB done 2018
 2018-49
 2018-20 (solved a second time over, first time was not noted)
 2018-26
-
-/j/doc/db/gamerule/tmb/2019/done.txt
-
-TMB done 2019
 
 2019-04
 2019-06
@@ -91,10 +83,6 @@ TMB done 2019
 2019-50
 2019-51
 
-/j/doc/db/gamerule/tmb/2020/done.txt
-
-TMB done 2020
-
 2020-03
 2020-04
 2020-07
@@ -116,8 +104,6 @@ TMB done 2020
 2020-15
 2020-40
 2020-52
-
-/j/doc/db/gamerule/tmb/2021/done.txt
 
 2021-01
 2021-03
