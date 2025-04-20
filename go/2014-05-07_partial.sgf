@@ -1,0 +1,17 @@
+(
+;FF[4]
+ GM[1]
+ AP[Goban:3.2.12]
+ SZ[19]
+ HA[3]
+ KM[0.0]
+ AB[dd][dp][pd]
+ US[Jeremy Tammik]
+ DT[2014-03-19]
+ CA[UTF-8]
+;W[pp];B[qj];W[fc];B[hq];W[cn];B[cf];W[nc];B[qf];W[dh];B[dc];W[jp]
+;B[cp];W[pl];B[pc];W[qh];B[oh];W[pg];B[pi];W[of];B[nd];W[md];B[oe]
+;W[ne];B[od];W[mf];B[mc];W[lc];B[mb];W[kd];B[lb];W[kb];B[nb];W[fo]
+;B[fq];W[eb];B[jq];W[kq];B[ip];W[jr];B[iq];W[jo];B[lh];W[cb];B[ff]
+;W[cc];B[ig];W[ge];B[ee];W[gh];B[gg];W[cd];B[hh];W[gi];B[hi];W[ce]
+;B[df];W[de];B[ed];W[eg];B[nk];W[ef];B[fh];W[fe])

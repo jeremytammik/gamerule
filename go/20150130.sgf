@@ -1,0 +1,56 @@
+(
+;FF[4]
+ GM[1]
+ AP[Goban:3.2.12]
+ SZ[19]
+ HA[3]
+ KM[0.0]
+ AB[dd][dp][pd]
+ US[Jeremy Tammik]
+ DT[2014-03-19]
+ CA[UTF-8]
+;W[pp];B[qj];W[fc];B[hq];W[cn];B[cf];W[nc];B[qf];W[dh];B[dc];W[jp]
+;B[cp];W[pl];B[pc];W[qh];B[oh];W[pg];B[pi];W[of];B[nd];W[md];B[oe]
+;W[ne];B[od];W[mf];B[mc];W[lc];B[mb];W[kd];B[lb];W[kb];B[nb];W[fo]
+;B[fq];W[eb];B[jq];W[kq];B[ip];W[jr];B[iq];W[jo];B[lh];W[cb];B[ff]
+;W[cc];B[ig];W[ge];B[ee];W[gh];B[gg];W[cd];B[hh];W[gi];B[hi];W[ce]
+;B[df];W[de];B[ed];W[eg];B[ef];W[fg];B[gf]
+(
+  ;W[kg];B[kh];W[jg];B[jh];W[if];B[hf];W[he];B[lg];W[lf];B[jf]
+  ;W[kf];B[ie];W[id];B[ng];W[nf];B[gj];W[fj];B[dg];W[fh];B[gk]
+  ;W[fk];B[nk];W[qi];B[pj];W[ql];B[nm];W[ok];B[ol];W[om];B[nl]
+  ;W[pk];B[on];W[pm];B[no];W[op];B[fl];W[el];B[fm];W[em];B[fn]
+  ;W[en];B[go];W[ep];B[fp];W[eo];B[eq];W[bo];B[np];W[nq];B[mq]
+  ;W[nr];B[mr];W[mp];B[lp];W[mo];B[mn];W[lo];B[ko];W[ln];B[kn]
+  ;W[lm];B[kp];W[kr];B[lq];W[ms];B[ls];W[ns];B[lr];W[oo];B[nn]
+  ;W[oq];B[pn];W[qn];B[qg];W[ph];B[og];W[pf];B[pe];W[rh];B[ch]
+  ;W[di];B[ci];W[cj];B[bj];W[ck];B[bk];W[bl];B[be];W[bd];B[bg]
+  ;W[mg];B[ni];W[bq];B[bp];W[ap];B[cq];W[br];B[cr];W[cs];B[ds]
+  ;W[bs];B[er];W[rj];B[km];W[se];B[re];W[sf];B[rf];W[rd];B[rc]
+  ;W[sc];B[qd];W[rg];B[sd];W[sg];B[sb];W[je];B[if];W[oj];B[oi]
+  ;W[ll];B[lk];W[kl];B[kk];W[jl];B[jn]
+  (
+    ;W[ik];B[jk];W[hj];B[ij];W[hk];B[gl];W[nj];B[mj]
+    (
+      ;W[qk];B[mh];W[po];B[il];W[db];B[ec];W[fd];B[fe];W[gd];B[hl]
+      ;W[ak];B[bi];W[ae];B[bf];W[mm];B[mk];W[la];B[ma];W[ka];B[af]
+      ;W[ad];B[aj];W[al];B[co];W[bn];B[do];W[dn]
+    )
+    (
+      ;W[mm]
+    )
+  )
+  (
+    ;W[mi];B[mh];W[qk];B[nh];W[nj];B[mj];W[li];B[ki];W[lj];B[kj]
+  )
+  (
+    ;W[ik];B[mi]
+  )
+)
+(
+  ;W[hf];B[hg];W[if];B[he];W[hd];B[ie];W[jf]
+)
+(
+  ;W[rj];B[rk];W[ri];B[qk];W[rm];B[ql];W[qm];B[pm];W[ol];B[qn]
+  ;W[pn]
+))

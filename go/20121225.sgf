@@ -1,0 +1,44 @@
+(
+;FF[4]
+ GM[1]
+ AP[Goban:3.2.12]
+ SZ[19]
+ HA[2]
+ KM[0.0]
+ AB[dp][pd]
+ CA[iso-8859-1]
+ US[Jeremy Tammik]
+ DT[2012-11-13]
+ PW[Jeremy]
+ PB[Markus]
+ C[SGF Datei erstellt durch TurboGo für Windows 95 v4.01, Unregistrierte Versio\
+n
+
+]
+;W[];B[pp];W[dc];B[jq];W[nq];B[qj];W[qf];B[mc];W[fq];B[cl];W[dj]
+;B[jd];W[hd];B[qm];W[qc];B[pr];W[qq];B[pq];W[qr];B[dr];W[fo];B[dn]
+;W[no];B[cf];W[ce];B[df];W[bf];B[lq];W[ln];B[hq];W[fr];B[gr];W[or]
+;B[mr];W[ps];B[qo];W[qd];B[bg];W[bd];B[ci];W[fk];B[eh];W[cj];B[gg]
+;W[bi];B[ch];W[bh];B[ag];W[ff];B[ef];W[fg];B[eg];W[di];B[fh];W[fe]
+;B[hh];W[gi];B[gh];W[dh];B[cg];W[pc];B[if];W[nd];B[rh];W[rg];B[ph]
+;W[qh];B[qi];W[qg];B[rj];W[nc];B[ld];W[ip];B[iq];W[kp]
+(
+  ;B[kq];W[jp]
+  (
+    ;B[mq];W[np];B[nr];W[oq]
+    (
+      ;B[ns];W[os];B[fs];W[es];B[gs];W[er];B[fp];W[gq];B[hr];W[ep]
+      ;B[gp];W[en];B[ds];W[eq];B[dq];W[eo];B[do];W[hp];B[go];W[gn]
+      ;B[ho];W[hn];B[io];W[jo];B[in];W[im];B[jn];W[jm];B[kn];W[km]
+    )
+    (
+      ;B[gq]
+    )
+  )
+  (
+    ;B[kr]
+  )
+)
+(
+  ;B[jp]
+))
