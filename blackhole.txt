@@ -1,0 +1,16 @@
+
+
+Don't you just love the Black Hole game, by @benorlin
+You begin by drawing the pyramid at top with 21 circles. 
+Then, take turns writing a 1 in a circle of your choice.
+
+"After that, take turns writing 2, 3, and so on, in order. (You must write your numbers in order; no skipping ahead.) When you have each written your 10, there will be one circle left blank: the black hole.  The black hole destroys all its neighboring circles. Whoever has a greater sum of numbers left over – that is, whoever loses a smaller sum to the black hole – is the winner."
+
+By Ben Orlin, https://mathwithbaddrawings.com/2020/04/22/six
+-strategic-games-from-a-strange-and-bottomless-mind/
+, (cc by-nc 4.0)
+
+Six Strategic Pen-and-Paper Games (from a Strange and Bottomless Mind)
+
+https://mathwithbaddrawings.com/2020/04/22/six-strategic-games-from-a-strange-and-bottomless-mind/
+

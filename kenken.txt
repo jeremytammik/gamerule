@@ -1,0 +1,33 @@
+
+i see the game of kenken in the NYT edition of may 22 2026. can you show me that game on the screen and help me play it?
+
+size is 4x4 with six cages; i'll name the six cages e, f, g, h, i, j; here they are:
+
+e: 7+: a1, b1, b2
+f: 8+: a2, a3, a4
+g: 1-: b3, b4
+h: 3+: c1, c2
+i: 8+: c3, c4, d4
+j: 9+: d1, d2, d3
+
+j cannot include 1, because 9 = 2+3+4
+so, d4 contains 1
+since i equals 8, {c3,c4} must contain {3,4}
+since h equals 3, {c1,c2} must contain {1,2}
+since g equals 1, b3 = b4 + 1
+since f equals 8, 
+since e equals 7 and A1 = 2, b1 + b2 = 5
+d1 ∈ {3,4}
+c1 cannot be 2, because that would conflict a1. so, c1=1
+then c2 must be 4
+
+i solved it: 
+
+```
+2 3 1 4
+4 1 3 2
+1 2 4 3
+3 4 2 1 
+```
+
+https://chatgpt.com/share/6a1085d2-2e20-83eb-ad45-fded035b326d
